@@ -59,8 +59,6 @@ Ensure you have Python 3.7+ and the required libraries:
   
   streamlit run app.py
 
-**navigate to** http://localhost:8501 in your browser.
-
 ## 🗂️ Project Structure
 correlation-analysis-dashboard/
 
