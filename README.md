@@ -1,35 +1,35 @@
-#📊 Correlation Analysis Dashboard
+# 📊 Correlation Analysis Dashboard
 A simple, interactive Streamlit web application for exploring correlations between variables in numeric datasets.
 
-#🔗Live Demo:
+### 🔗Live Demo:
 👉 https://correlation-analysis-dashboard-meraj-ali.streamlit.app/
 
-#🚀Features
+## 🚀Features
 📁 Interactive File Upload
 Easily upload CSV files through an intuitive sidebar interface.
 
-🔥 Correlation Heatmap
+*🔥Correlation Heatmap*
 Automatically generates a heatmap to visualize correlations between numeric features.
 
-📉 Dynamic Scatter Plots
+*📉Dynamic Scatter Plots*
 Select any two numeric variables to generate an interactive scatter plot.
 
-👁️ Data Preview
+*👁️Data Preview*
 Instantly view the first few rows of your data, including column types and summary statistics.
 
-✅ Data Validation
+*✅Data Validation*
 Detects numeric columns and reports null values for better data understanding.
 
-#🛠️Technologies Used
-Streamlit – For building the interactive web app
+## 🛠️Technologies Used
+*Streamlit* – For building the interactive web app
 
-Pandas – For data manipulation and preprocessing
+*Pandas* – For data manipulation and preprocessing
 
-Seaborn – For creating the correlation heatmap
+*Seaborn* – For creating the correlation heatmap
 
-Matplotlib – For custom plots and backend rendering
+*Matplotlib* – For custom plots and backend rendering
 
-#📈Use Cases
+## 📈Use Cases
 Ideal for analyzing correlations in:
 
 📊 Sales data
@@ -52,15 +52,15 @@ Run the App Locally
 streamlit run app.py
 navigate to http://localhost:8501 in your browser.
 
-#🗂️ Project Structure
+## 🗂️ Project Structure
 correlation-analysis-dashboard/
 │
-├── app.py                # Main Streamlit app
-├── requirements.txt      # Required Python packages
-└── README.md             # Project description
+├── app.py                
+├── requirements.txt     
+└── README.md             
 
-##🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you have suggestions for improvements, feel free to open an issue or a PR.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
