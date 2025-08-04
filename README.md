@@ -5,19 +5,24 @@ A simple, interactive Streamlit web application for exploring correlations betwe
 👉 https://correlation-analysis-dashboard-meraj-ali.streamlit.app/
 
 ## 🚀Features
-📁 Interactive File Upload
+- *📁 Interactive File Upload*
+
 Easily upload CSV files through an intuitive sidebar interface.
 
-*🔥Correlation Heatmap*
+- *🔥Correlation Heatmap*
+  
 Automatically generates a heatmap to visualize correlations between numeric features.
 
-*📉Dynamic Scatter Plots*
+- *📉Dynamic Scatter Plots*
+  
 Select any two numeric variables to generate an interactive scatter plot.
 
-*👁️Data Preview*
+- *👁️Data Preview*
+  
 Instantly view the first few rows of your data, including column types and summary statistics.
 
-*✅Data Validation*
+- *✅Data Validation*
+  
 Detects numeric columns and reports null values for better data understanding.
 
 ## 🛠️Technologies Used
@@ -42,8 +47,8 @@ Ideal for analyzing correlations in:
 
 🔢 Any dataset with numeric features
 
-##▶️ Getting Started
-Prerequisites
+### ▶️ Getting Started Prerequisites
+
 Ensure you have Python 3.7+ and the required libraries:
 bash
 pip install streamlit pandas seaborn matplotlib
@@ -55,6 +60,7 @@ navigate to http://localhost:8501 in your browser.
 ## 🗂️ Project Structure
 correlation-analysis-dashboard/
 │
+
 ├── app.py                
 ├── requirements.txt     
 └── README.md             
