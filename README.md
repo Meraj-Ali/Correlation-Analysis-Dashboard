@@ -50,12 +50,15 @@ Ideal for analyzing correlations in:
 ### ▶️ Getting Started Prerequisites
 
 Ensure you have Python 3.7+ and the required libraries:
-bash
-pip install streamlit pandas seaborn matplotlib
+- bash
+  
+  pip install streamlit pandas seaborn matplotlib
 
 Run the App Locally
+
 streamlit run app.py
-navigate to http://localhost:8501 in your browser.
+
+**navigate to** http://localhost:8501 in your browser.
 
 ## 🗂️ Project Structure
 correlation-analysis-dashboard/
