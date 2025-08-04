@@ -7,32 +7,32 @@ A simple, interactive Streamlit web application for exploring correlations betwe
 ## 🚀Features
 - *📁 Interactive File Upload*
 
-Easily upload CSV files through an intuitive sidebar interface.
+  Easily upload CSV files through an intuitive sidebar interface.
 
 - *🔥Correlation Heatmap*
   
-Automatically generates a heatmap to visualize correlations between numeric features.
+  Automatically generates a heatmap to visualize correlations between numeric features.
 
 - *📉Dynamic Scatter Plots*
   
-Select any two numeric variables to generate an interactive scatter plot.
+  Select any two numeric variables to generate an interactive scatter plot.
 
 - *👁️Data Preview*
   
-Instantly view the first few rows of your data, including column types and summary statistics.
+  Instantly view the first few rows of your data, including column types and summary statistics.
 
 - *✅Data Validation*
   
-Detects numeric columns and reports null values for better data understanding.
+  Detects numeric columns and reports null values for better data understanding.
 
 ## 🛠️Technologies Used
-*Streamlit* – For building the interactive web app
+**Streamlit** – For building the interactive web app
 
-*Pandas* – For data manipulation and preprocessing
+**Pandas** – For data manipulation and preprocessing
 
-*Seaborn* – For creating the correlation heatmap
+**Seaborn** – For creating the correlation heatmap
 
-*Matplotlib* – For custom plots and backend rendering
+**Matplotlib** – For custom plots and backend rendering
 
 ## 📈Use Cases
 Ideal for analyzing correlations in:
@@ -54,15 +54,15 @@ Ensure you have Python 3.7+ and the required libraries:
   
   pip install streamlit pandas seaborn matplotlib
 
-Run the App Locally
-
-streamlit run app.py
+*Run the App Locally*
+- bash
+  
+  streamlit run app.py
 
 **navigate to** http://localhost:8501 in your browser.
 
 ## 🗂️ Project Structure
 correlation-analysis-dashboard/
-│
 
 ├── app.py                
 ├── requirements.txt     
