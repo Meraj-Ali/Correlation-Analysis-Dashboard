@@ -66,12 +66,6 @@ correlation-analysis-dashboard/
 ├── requirements.txt     
 └── README.md             
 
-## 📸 Screenshots
-**Heatmap**
-<img width="742" height="654" alt="Screenshot 2025-08-04 144120" src="https://github.com/user-attachments/assets/42c1843b-1696-41a3-8214-6c2b8d284a78" />
-**Scatter Plot**
-<img width="746" height="475" alt="Screenshot 2025-08-04 144204" src="https://github.com/user-attachments/assets/8e0bff78-7cc9-41cd-8a1c-55fa76eddf6a" />
-
 ## 🤝 Contributing
 Pull requests are welcome! If you have suggestions for improvements, feel free to open an issue or a PR.
 
